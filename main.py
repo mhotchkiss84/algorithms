@@ -13,3 +13,5 @@ def gcd(a, b):
 
 print(gcd(20, 8))
 print(gcd(60, 96))
+
+# Next
